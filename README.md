@@ -8,3 +8,7 @@ It is recommened to run this program in Intellij. Java SDK 11 or higher will nee
 
 # Tests
 Pre-built tests are included in the program
+
+# Author
+Niall Crowe
+ncrowe2000@gmail.com
